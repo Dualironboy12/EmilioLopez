@@ -1,0 +1,126 @@
+body {
+  margin: 0%;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  background-color: #F6E3C5;
+}
+h1 {
+  color: #f6e3c5;
+  margin: 0%;
+  font-size: 5rem;
+  font-family: "Satisfy", cursive;
+}
+h2 {
+  color: #6cc4a1;
+  font-weight: normal;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+}
+h3 {
+  color: #4cacbc;
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  color: #4cacbc;
+}
+p{
+  margin: 0;
+}
+hr{
+  margin: 2% auto;
+  width: 20%;
+  border-style: none;
+  border-bottom: dashed #3498db 0.5em;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.underline {
+  text-decoration: underline;
+}
+.underline:hover {
+  color: #f6e3c5;
+}
+.imperator-image {
+  margin-right: 30px;
+  float: left;
+  width: 45%;
+}
+.profile-image {
+  border-radius: 100%;
+  width: 15%;
+  margin: 2.5%;
+}
+.piano-image{
+  margin-left: 30px;
+  float: right;
+  width: 25%;
+}
+.middle-container {
+  background-color: #F6E3C5;
+}
+.bottom-container {
+  margin-top: 4%;
+  padding: 1%;
+  background-color: #4cacbc;
+}
+.mail-text{
+  margin-bottom: 4%;
+}
+.footer-link{
+  padding: 0 4% 0 4%;
+  font-weight: bold;
+  text-decoration: none;
+  color: #F6E3C5;
+}
+.copyright{
+  padding-top: 1%;
+}
+.top-container {
+  background-color: #4cacbc;
+  position: relative;
+  padding-top: 10%;
+}
+.bottom-cloud {
+  width: 15%;
+  position: absolute;
+  bottom: 50%;
+  left: 10%;
+}
+.top-cloud {
+  width: 15%;
+  position: absolute;
+  top: 5%;
+  right: 10%;
+}
+.top-cloud:hover {
+  width: 16%;
+}
+.bottom-cloud:hover {
+  width: 16%;
+}
+.mountain {
+  width: 50%;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.profile-heading{
+  margin-top: 0;
+}
